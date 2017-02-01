@@ -1,0 +1,34 @@
+.nav{
+
+    height: 40px;
+    width:auto;
+    margin-right:50px;
+
+}
+
+.nav ul li{
+    list-style:none;
+    text-decoration:none;
+    display: inline-block;
+    padding: 10px;
+    padding-right:20px;
+    float: right;
+    }
+.nav ul li a { 
+    text-decoration: none;
+    color:#6699ff;
+    font-family: "Times New Roman", Times, serif;;
+    }
+.nav ul li a:hover {
+    color: #6be0d6;}
+.nav ul li a:active{
+    color: #6be0d6;
+    }
+
+body{
+
+background-image:url("space.jpg");
+}
+
+
+    
